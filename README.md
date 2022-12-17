@@ -1,5 +1,6 @@
 # Github-Gitopia
-Github'ta oluşturduğunuz bir repoyu Gitopia'ya aktarabileceğiniz bir rehber.
+
+- Github'ta oluşturduğunuz bir repoyu Gitopia'ya aktarabileceğiniz bir rehber ile karşınızdayım. O halde haydi başlayalım.
 
 - Bu işlemi gerçekleştirmek için önce Gitopia üzerinde bir repo oluşturmalıyız. Bunun için Gitopia sitesinde profilimize girdiğimizde 'Create a repository' seçeniğine tıklayın.
 
