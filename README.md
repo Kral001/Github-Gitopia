@@ -38,7 +38,7 @@ git gitopia keys add <YOUR-KEY-NAME> --recover
 
 ![5](https://user-images.githubusercontent.com/98269269/208249849-88c90335-cf64-45dc-b303-0b80b3c800d6.png)
 
-- Şimdi Gitopia anahtar adımızı git config'de yapılandıralım.
+- Şimdi Gitopia anahtar adımızı git config'de yapılandıralım. <YOUR_KEY_NAME> yazan yere biraz önce yukarıda belirlediğiniz adı yazmalısınız.
 
 ```
 git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
