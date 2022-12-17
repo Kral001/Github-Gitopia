@@ -120,5 +120,7 @@ git commit -m "initial commit"
 ```
 git remote add origin <GITOPIA_HESABINIZDAKI_REMOTE_YAZAN_YER>
 ```
-
+```
+git push origin master
+```
 
