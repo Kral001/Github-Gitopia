@@ -55,7 +55,8 @@ git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
 
 <img width="1420" alt="azz" src="https://user-images.githubusercontent.com/98269269/208250050-7d46f096-7e1e-4cdb-8194-5ff8f7e84c42.png">
 
+- Ortaya çıkan seçim menüsünde, View Mnemonic Seed'e tıklayın
 
-
+<img width="1420" alt="azz" src="https://user-images.githubusercontent.com/98269269/208250170-8bf86f0a-c71c-4942-98bb-501b97902708.png">
 
 
