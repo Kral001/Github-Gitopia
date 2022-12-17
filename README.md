@@ -63,4 +63,7 @@ git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
 
 <img width="1420" alt="azz" src="https://user-images.githubusercontent.com/98269269/208250231-5c087cf4-0ccf-47e1-8112-c87760a0ee99.png">
 
+- Keplr cüzdanınız Mnemonic Seed Phrase şimdi görüntülenecektir. Anahtarınızı işletim sistemi anahtarlığında ayarlamak için bu anımsatıcıya ihtiyacınız olacak. Bu nedenle bu ifadeleri güvende tuttuğunuzdan emin olmalısınız.
+
+<img width="1420" alt="az" src="https://user-images.githubusercontent.com/98269269/208250281-069b87c5-6eaf-4274-a4fc-6cc9fc49a410.png">
 
