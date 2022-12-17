@@ -27,6 +27,13 @@ sudo mv /tmp/tmpinstalldir/git-remote-gitopia /usr/local/bin/
 ```
 
 
+- Şimdi anahtarımızı OS anahtarına ekleyeceğiz. Aşağıdaki komutta yer alan <YOUR-KEY-NAME> kısmına kendiniz için bir isim belirleyip yazıyorsunuz. Ve bu kodu giriyorsunuz.
+  
+```
+git gitopia keys add <YOUR-KEY-NAME> --recover
+```
+
+
 
 
 
