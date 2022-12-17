@@ -137,4 +137,8 @@ git push origin master
 
 ![11](https://user-images.githubusercontent.com/98269269/208252391-5a9a022d-8e65-4c56-8617-abe7af477699.png)
 
+- Repomuzun içine girelim ve forklayalım.
+
+![12](https://user-images.githubusercontent.com/98269269/208252458-b35acfc3-c2ac-45a3-a551-f8400a4e8e32.png)
+
 
