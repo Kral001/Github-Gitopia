@@ -34,6 +34,11 @@ git gitopia keys add <YOUR-KEY-NAME> --recover
 ```
 - Yukarıdaki komutu girdiğinizde, cüzdan anımsatıcınızı girmeniz istenecektir. Cüzdanınızın 24 kelimelik kurtarma ifadesini yazın ve ENTER'a basın.
 
+- Kelimeleri girip ENTER tuşuna bastığınızda karşınıza böyle bir çıktı çıkmalı.
+- 
+![5](https://user-images.githubusercontent.com/98269269/208249849-88c90335-cf64-45dc-b303-0b80b3c800d6.png)
+
+
 
 
 
