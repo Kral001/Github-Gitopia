@@ -85,4 +85,15 @@ git gitopia keys delete <key_name>
 
 - Bu kodu yazdığınızda karşınıza çıkan seçeneğe 'y' diyin ve ENTER tuşuna basın. İşleminiz gerçekleşmiş olacaktır.
 
+## Şimdi Asıl İşlemlere Başlıyoruz. Üst Düzey Dikkat Lazım!
+
+- Öncelikle terminalimizde yukarıdaki cüzdan işlemlerini tamamladık. Artık repomuzu sisteme tanıtarak Github-Gitopia bağlantısını kuracağız. Değişik geldiğini tahmin edebiliyorum :) Haydi başlayalım.
+
+- Komutları tek tek ve sırasıyla girelim.
+```
+mkdir <REPO_ADINIZ>
+```
+
+
+
 
