@@ -117,6 +117,7 @@ git commit -m "initial commit"
 ```
 export GITOPIA_WALLET=/Users/gitopia/Downloads/<YOUR_KEY_NAME>.json 
 ```
-
-
+```
+git remote add origin gitopia://hello/<REPO_ADINIZ>
+```
 
