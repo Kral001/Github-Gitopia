@@ -46,7 +46,13 @@ git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
 
 
 
+- Ana adımlara geçmeden önce Keplr cüzdan Mnemonic Seed Phrase'inizi bulmanız gerekiyor. Bunun için öncelikle araç çubuğunuzdaki Keplr uzantı ikonuna tıklayarak hesabınıza giriş yapın ve ardından görseldeki gibi hesap ikonuna tıklayın.
 
+<img width="1420" alt="az" src="https://user-images.githubusercontent.com/98269269/208250010-db70ff75-1925-4258-af8b-67976aee8511.png">
+
+- Şimdi, gösterildiği gibi hesap adınızın yanındaki üç noktayı tıklayın.
+
+<img width="1420" alt="azz" src="https://user-images.githubusercontent.com/98269269/208250050-7d46f096-7e1e-4cdb-8194-5ff8f7e84c42.png">
 
 
 
