@@ -84,3 +84,5 @@ git gitopia keys delete <key_name>
 ```
 
 - Bu kodu yazdığınızda karşınıza çıkan seçeneğe 'y' diyin ve ENTER tuşuna basın. İşleminiz gerçekleşmiş olacaktır.
+
+
