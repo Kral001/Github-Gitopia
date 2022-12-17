@@ -17,6 +17,16 @@ Github'ta oluşturduğunuz bir repoyu Gitopia'ya aktarabileceğiniz bir rehber.
 ```
 curl https://get.gitopia.com | bash
 ```
+- Yukarıdaki kodu girdiğinizde aşağıdaki hatayı alırsanız, bir sonraki kodu girmelisiniz. Aşağıdaki hatayı almazsanız bir sonraki komutu girmenize gerek yoktur.
+
+![4](https://user-images.githubusercontent.com/98269269/208249557-ae6ee762-5fc0-4e8b-9ab1-0a14f946fbd6.png)
+
+- Yukarı hatayı aldıysanız bu kodu girmelisiniz.
+```
+sudo mv /tmp/tmpinstalldir/git-remote-gitopia /usr/local/bin/
+```
+
+
 
 
 
