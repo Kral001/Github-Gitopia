@@ -32,7 +32,7 @@ sudo mv /tmp/tmpinstalldir/git-remote-gitopia /usr/local/bin/
 ```
 git gitopia keys add <YOUR-KEY-NAME> --recover
 ```
-
+- Yukarıdaki komutu girdiğinizde, cüzdan anımsatıcınızı girmeniz istenecektir. Cüzdanınızın 24 kelimelik kurtarma ifadesini yazın ve ENTER'a basın.
 
 
 
