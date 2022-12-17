@@ -67,3 +67,8 @@ git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
 
 <img width="1420" alt="az" src="https://user-images.githubusercontent.com/98269269/208250281-069b87c5-6eaf-4274-a4fc-6cc9fc49a410.png">
 
+- Oluşturduğunuz anahtarlarınızın isimlerini görmek için aşağıdaki kodu kullanabilirsiniz.
+
+```
+git gitopia keys list
+```
