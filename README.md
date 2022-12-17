@@ -1,4 +1,4 @@
-# Github-Gitopia
+<h1 align="center"> Github-Gitopia </h1>
 
 - Github'ta oluşturduğunuz bir repoyu Gitopia'ya aktarabileceğiniz bir rehber ile karşınızdayım. O halde haydi başlayalım.
 
