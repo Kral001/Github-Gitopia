@@ -93,7 +93,19 @@ git gitopia keys delete <key_name>
 ```
 mkdir <REPO_ADINIZ>
 ```
-
-
-
+```
+cd <REPO_ADINIZ>
+```
+```
+echo "# <REPO_ADINIZ>" >> README.md
+```
+```
+git init
+```
+```
+git add README.md
+```
+```
+git commit -m "initial commit"
+```
 
