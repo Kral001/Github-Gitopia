@@ -72,3 +72,6 @@ git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
 ```
 git gitopia keys list
 ```
+- Yukarı komutu kullandığınızda aşağıdaki gibi bir çıktı alacaksınız. Bu çıktıda key isimlerinizi görebilirsiniz.
+
+![7](https://user-images.githubusercontent.com/98269269/208250409-ac4822cd-7763-4aba-aa2d-cf9dab8ed79b.png)
