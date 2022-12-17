@@ -59,4 +59,8 @@ git config --global gitopia.key <YOUR-GITOPIA-KEY-NAME>
 
 <img width="1420" alt="azz" src="https://user-images.githubusercontent.com/98269269/208250170-8bf86f0a-c71c-4942-98bb-501b97902708.png">
 
+- Cüzdan şifrenizi yazmanız istenecektir. Doldurulduktan sonra Confirm tuşuna tıklayın.
+
+<img width="1420" alt="azz" src="https://user-images.githubusercontent.com/98269269/208250231-5c087cf4-0ccf-47e1-8112-c87760a0ee99.png">
+
 
