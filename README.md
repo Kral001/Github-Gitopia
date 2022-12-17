@@ -113,9 +113,12 @@ git commit -m "initial commit"
 
 <img width="1422" alt="sd" src="https://user-images.githubusercontent.com/98269269/208251096-5fc29723-3be2-476d-8532-b3d2fff0571a.png">
 
-- Sıradaki işlem ile devam ediyoruz. Aşağıdaki kodda <REPO_ADINIZ> yazan yere reponuzun adını yazmayı unutmayın.
+- Sıradaki işlem ile devam ediyoruz. Aşağıdaki kodda <GITOPIA_HESABINIZDAKI_REMOTE_YAZAN_YER> kısmına ilgili yerdeki kodu kopyalayıp yapıştırın.
+
+![8](https://user-images.githubusercontent.com/98269269/208252172-6ab88ea2-e708-44d1-8f6e-0749b05731b8.png)
 
 ```
-git remote add origin gitopia://<hesap_adınız>/<REPO_ADINIZ>
+git remote add origin <GITOPIA_HESABINIZDAKI_REMOTE_YAZAN_YER>
 ```
+
 
