@@ -141,4 +141,6 @@ git push origin master
 
 ![12](https://user-images.githubusercontent.com/98269269/208252458-b35acfc3-c2ac-45a3-a551-f8400a4e8e32.png)
 
+- Şimdi de 'clone' yapalım.
+
 
