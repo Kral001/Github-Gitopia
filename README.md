@@ -123,4 +123,16 @@ git remote add origin <GITOPIA_HESABINIZDAKI_REMOTE_YAZAN_YER>
 ```
 git push origin master
 ```
+## Şimdi Tekrar Gitopia Sayfamıza Gidelim
+
+- Issues kısmına tıklayalım.
+
+![9](https://user-images.githubusercontent.com/98269269/208252285-2f9cef8a-99aa-4079-bee2-9ea6d4596440.png)
+
+- Ardından 'New issue' diyelim.
+
+![10](https://user-images.githubusercontent.com/98269269/208252308-a2d1cd46-8c7a-41f8-9c59-6610f12f6847.png)
+
+
+
 
