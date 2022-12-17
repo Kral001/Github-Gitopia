@@ -133,6 +133,8 @@ git push origin master
 
 ![10](https://user-images.githubusercontent.com/98269269/208252308-a2d1cd46-8c7a-41f8-9c59-6610f12f6847.png)
 
+- Şimdi ilgili yerleri dolduralım. Bir başlık belirleyelim ve 'Create issue' diyelim.
 
+![11](https://user-images.githubusercontent.com/98269269/208252391-5a9a022d-8e65-4c56-8617-abe7af477699.png)
 
 
