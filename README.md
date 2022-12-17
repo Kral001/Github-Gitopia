@@ -113,10 +113,8 @@ git commit -m "initial commit"
 
 <img width="1422" alt="sd" src="https://user-images.githubusercontent.com/98269269/208251096-5fc29723-3be2-476d-8532-b3d2fff0571a.png">
 
-- Sıradaki işlem ile devam ediyoruz. Aşağıdaki kodda <YOUR_KEY_NAME> yazan yere yukarıda belirlediğiniz key adınızı yazmayı unutmayın.
-```
-export GITOPIA_WALLET=/Users/gitopia/Downloads/<YOUR_KEY_NAME>.json 
-```
+- Sıradaki işlem ile devam ediyoruz. Aşağıdaki kodda <REPO_ADINIZ> yazan yere reponuzun adını yazmayı unutmayın.
+
 ```
 git remote add origin gitopia://<hesap_adınız>/<REPO_ADINIZ>
 ```
