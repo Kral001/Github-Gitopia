@@ -158,4 +158,39 @@ git push origin master
 cd <REPO_ADINIZ>
 ```
 
+- Aşağıdaki kodlarla devam ediyoruz.
+
+```
+git checkout -b dev
+```
+
+```
+vim README.md
+```
+
+- Yukarıdaki kodu yazınca işaretlediğim yerdeki yazım yanlışını düzeltiyoruz.
+
+![zzzz](https://user-images.githubusercontent.com/98269269/208426476-5ef7ea5f-7fc6-44e8-9c18-61bed490692c.png)
+
+- Devam ediyoruz.
+
+```
+git add README.md
+```
+
+```
+git commit -m "fix typo"
+```
+
+```
+git push origin dev
+```
+
+- Bu işlemlerden sonra Gitopia sayfamıza gidiyoruz ve repomuza tıklıyoruz. Açılan sayfada işaretlediğim yere tıklayarak 'dev' seçeneğini seçiyoruz.
+
+![za](https://user-images.githubusercontent.com/98269269/208427022-7fe43b2e-1a59-4f7a-87d4-e46e0a51b9a6.png)
+
+
+
+
 
