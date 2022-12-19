@@ -190,6 +190,21 @@ git push origin dev
 
 ![za](https://user-images.githubusercontent.com/98269269/208427022-7fe43b2e-1a59-4f7a-87d4-e46e0a51b9a6.png)
 
+- Son olarak 'pull requests' yapalım. İşaretlediğim yerlere sırasıyla tıklıyoruz.
+
+![zaa](https://user-images.githubusercontent.com/98269269/208427332-b6007ec6-162f-4808-be78-69ae14eac6cb.png)
+
+- Ardından işaretli yere tıklıyoruz.
+
+![qw](https://user-images.githubusercontent.com/98269269/208427817-ec3419b0-c572-467e-a1e1-34abee8aa778.png)
+
+- Sonra aşağıdaki işaretli yeri seçiyoruz.
+
+![qwe](https://user-images.githubusercontent.com/98269269/208428009-7eba88cf-ecb7-4e8f-9bf7-be1eb86b08f4.png)
+
+- 'Create pull request' yazısına tıklıyoruz.
+
+![q](https://user-images.githubusercontent.com/98269269/208428207-8f5ea5f7-a21c-4fc4-87c0-1341aed02d61.png)
 
 
 
