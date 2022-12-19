@@ -206,6 +206,13 @@ git push origin dev
 
 ![q](https://user-images.githubusercontent.com/98269269/208428207-8f5ea5f7-a21c-4fc4-87c0-1341aed02d61.png)
 
+- Sırasıyla aşağıdaki işlemleri yapıyoruz. 1 numaralı yere bir başlık belirliyoruz ve sonuna README yazmayı unutmuyoruz.
+
+![qa](https://user-images.githubusercontent.com/98269269/208428517-1ecb66f0-5fd4-44da-a83a-f66cb0705787.png)
+
+- Son olarak 'Merge Pull Request' yapıyoruz ve işlemi sonlandırıyoruz.
+
+![qas](https://user-images.githubusercontent.com/98269269/208428881-1144e8d6-6fda-406f-bbd1-b3ccaade39fb.png)
 
 
 
