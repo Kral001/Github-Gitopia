@@ -214,5 +214,6 @@ git push origin dev
 
 ![qas](https://user-images.githubusercontent.com/98269269/208428881-1144e8d6-6fda-406f-bbd1-b3ccaade39fb.png)
 
-
+- Umarım anlaşılır olmuştur. Cüzdan oluşturmadan tutun da tüm adımları tane tane anlatmaya çalıştım. Uzun bir süredir Gitopia testneti için node çalıştırıyoruz ve bu işlemin de faydası olacağını düşündüm. Herkese kolay gelsin.
+- Aynı zamanda profilimde detaylı bir şekilde 'Gitopia-Cuzdan' adlı repoma da ulaşabilirsiniz.
 
