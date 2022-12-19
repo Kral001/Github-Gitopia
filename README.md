@@ -11,7 +11,7 @@
 <img width="1418" alt="2" src="https://user-images.githubusercontent.com/98269269/208249375-83d1b5e1-143b-4056-ba03-dbdcec2e8a31.png">
 
 
-- Şimdi yapacağımız adımları çok dikkatli yapmalısınız. Öncelikle git remote helper yükleyeceğiz. Bu işlemleri yapabilmek için Gİtopia sunucunuzu açın ve ana terminalde işlem yapın.
+- Şimdi yapacağımız adımları çok dikkatli yapmalısınız. Öncelikle git remote helper yükleyeceğiz. Bu işlemleri yapabilmek için Gitopia sunucunuzu açın ve ana terminalde işlem yapın.
 
 - Önce aşağıdaki komut ile kurulumu yapıyoruz.
 
