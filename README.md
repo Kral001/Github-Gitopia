@@ -120,9 +120,16 @@ git commit -m "initial commit"
 ```
 git remote add origin <GITOPIA_HESABINIZDAKI_REMOTE_YAZAN_YER>
 ```
+- ÖNEMLİ NOT: Arkadaşlar aşağıdaki komut bende hata verdi. Ekran görüntüleri ile birlikte ekibe sordum hatayı. Birkaç yönlendirme yaptılar ancak sonuç değişmedi. Bu nedenle geri kalan işlemleri maalesef yapamıyoruz eğer bu noktada hata alırsak. Ekipten dönüş bekliyorum. Bilgi verdikleri anda hatanın nasıl düzeleceği ile ilgili olarak bu rehberi düzenleyeceğim. Umarım sizlerde hata vermez de tüm işlemleri eksiksiz olarak yapabilirsiniz.
+
+
 ```
 git push origin master
 ```
+- Eğer yukarıdaki kodu girdikten sonra 1 numaralı hata karşınıza çıkıyorsa bunun çözümünü henüz bulamadım (bulabilen olursa pull request atabilir), maalesef diğer işlemleri yapamıyoruz. Eğer ikinci kısımdaki komutu girdiğinizde 2 numaralı hatayı alıyorsanız orada karşımıza çıkan iki koddan biri ile ya ismimizi ya da mail adresimizi bırakıyoruz ve 2 numaralı sorun çözülmüş oluyor.
+
+![sda](https://user-images.githubusercontent.com/98269269/208459768-39470a50-1c5f-4e7c-88db-dd3c53e9602b.jpg)
+
 ## Şimdi Tekrar Gitopia Sayfamıza Gidelim
 
 - Issues kısmına tıklayalım.
