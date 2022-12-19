@@ -143,4 +143,19 @@ git push origin master
 
 - Şimdi de 'clone' yapalım.
 
+![qqqq](https://user-images.githubusercontent.com/98269269/208424377-374ed9b9-4a6a-498e-a01a-d8047cdf454c.png)
+
+- Şimdi işaretli yerdeki kodu kopyalayalım.
+
+![qqqqq](https://user-images.githubusercontent.com/98269269/208425182-fd481f67-f946-4da0-aeb0-2a283a7fc752.png)
+
+- Yukarıda kopyaladığımız kodu terminalimize yapıştırıyoruz.
+
+![qqqqqq](https://user-images.githubusercontent.com/98269269/208425447-aa137a06-ebcc-4e40-ba06-c34910689641.png)
+
+- Aşağıdaki kodu terminalimize yapıştırıyoruz.
+```
+cd <REPO_ADINIZ>
+```
+
 
