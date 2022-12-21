@@ -1,5 +1,7 @@
 <h1 align="center"> Github-Gitopia </h1>
 
+NOT: Arkadaşlar bu işlemleri Keplr cüzdanımız bağlıyken yapamıyoruz. Bunun için önce Gitopia'nın sitesinde kendimize bir Gitopia cüzdanı oluşturmamız lazım. ''Download Wallet'' yazısını göremiyorum diyen arkadaşların görememe sebebi Keplr Cüzdanını siteye bağlamaları. Aşağıda cüzdan gizli kelimelerini nasıl alabileceğinizi de anlattım. Önce kelimelerinizi alıp onları Gitopia sitesine ''Create Wallet'' diyerek import etmelisiniz. Sonra diğer işlemlere başlayabilirsiniz.
+
 - Github'ta oluşturduğunuz bir repoyu Gitopia'ya aktarabileceğiniz bir rehber ile karşınızdayım. O halde haydi başlayalım.
 
 - Bu işlemi gerçekleştirmek için önce Gitopia üzerinde bir repo oluşturmalıyız. Bunun için Gitopia sitesinde profilimize girdiğimizde 'Create a repository' seçeneğine tıklayın.
